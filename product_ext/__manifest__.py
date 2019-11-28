@@ -1,0 +1,15 @@
+{
+    'name': 'Product Template Extend',
+    'version': '1.0',
+    'author': 'Rimusoft Teknologi Indonesia',
+    'category': 'Backend',
+    'website': 'https://www.rimusoft.com/',
+    'summary': 'Raja Ongkir Integration',
+    'description': '''''',
+    'external_dependencies': {},
+    'depends': [],
+    'data': [],
+    'auto_install': False,
+    'installable': True,
+    'application': True,
+}
